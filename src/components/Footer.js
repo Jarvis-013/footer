@@ -4,7 +4,7 @@ import Triangle from "./triangle";
 import VerticalLine from "./lins";
 const Footer = () => {
   return (
-    <div className="relative bg-black w-full h-[8088px] overflow-hidden text-left text-77xl text-pitchdeck-slide-background font-goldman">
+    <div className="relative  w-full h-[8088px] overflow-hidden text-left text-77xl text-pitchdeck-slide-background font-goldman">
       <div className="relative top-[7432px] left-[-295px] w-[1728px] overflow-hidden flex flex-col items-end justify-center text-mini font-bruno-ace-sc">
         <div className="relative w-[1468px] h-[771px] overflow-hidden shrink-0 " style={{padding:''}}>
           {/* this is the background image  */}
